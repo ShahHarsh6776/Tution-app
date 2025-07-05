@@ -1,4 +1,4 @@
-# tution
+# ClassConnect
 
 A new Flutter project.
 
